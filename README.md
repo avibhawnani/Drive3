@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# A WEB3.0 based approach towards Google Drive
+* It is a sample project built using Hardhat testnet.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Screenshot
+![drive3_demo](https://user-images.githubusercontent.com/88795320/217493947-60a1bd93-2972-4cb0-bd21-8d4d6dce97c5.png)
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+* You can try this using [Link](https://drivethree.netlify.app/)
